@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../libCPoint_static.a  CMakeFiles/CPoint_static.dir/CPoint.cc.o
+/usr/bin/ranlib ../libCPoint_static.a
