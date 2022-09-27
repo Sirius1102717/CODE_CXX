@@ -8,7 +8,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}",
+                "${fileDirname}/output/${fileBasenameNoExtension}",
                 "-stdlib=libc++",
                 "-fuse-ld=lld",
                 "-std=c++20",

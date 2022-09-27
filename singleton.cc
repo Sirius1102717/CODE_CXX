@@ -5,7 +5,6 @@
 #include <string>
 #include <vector>
 
-
 using namespace std;
 
 class singleton {
@@ -25,9 +24,6 @@ public:
         std::cout << "hello world\n";
     }
 };
-
-
-
 
 int main(int argc, char* argv[]) {
     // auto s2 = singleton::get_singletion;
